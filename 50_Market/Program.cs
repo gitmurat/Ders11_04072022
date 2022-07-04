@@ -21,7 +21,7 @@
 
             for (int i = 0; i < sepet.Length; i++)
             {
-                Urun urun = sepet[i];
+                Urun urun = sepet[i];                   //Ürün class'ında yeni bir instance yaratarak indexe atıyoruz
 
                 Console.WriteLine(urun.Baslik);
                 Console.WriteLine(urun.Fiyat);
