@@ -15,6 +15,7 @@ namespace _80_Dictionary
             dic.Add(6, "Ankara");
             dic.Add(34, "İstanbul");
             dic.Add(60, "Tokat");
+            dic.Add(10, "Balıkesir");
 
             foreach (var key in dic.Keys)
             {
